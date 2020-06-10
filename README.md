@@ -1,5 +1,7 @@
 # vue-todo
 
+Live view: https://sad-swartz-08fa7c.netlify.app
+
 ## Project setup
 ```
 npm install
